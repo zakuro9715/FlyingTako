@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<instruction>
+  <page>
+    <image>click</image>
+    <mouse>
+      <button>none</button>
+      <move>none</move>
+    </mouse>
+    <text>      お客さんから注文が入ります。    </text>
+  </page>
+  <page>
+    <image>click</image>
+    <mouse>
+      <button>lleft</button>
+      <move>none</move>
+    </mouse>
+    <text>      生地を注ぐ、ひっくり返す、焦げたたこ焼きを取り除く、
+                の3つの動作はすべて左クリックで行います。   
+    </text>
+  </page>
+  <page>
+    <image>throw</image>
+    <mouse>
+      <button>none</button>
+      <move>none</move>
+    </mouse>
+    <text>      上手に焼けたらお客さんに向かって投げましょう。    </text>
+  </page>
+</instruction>
